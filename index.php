@@ -14,6 +14,7 @@
     <?php include './templates/nav.php' ?>
     <div class="container mt-5">
         <h3>Pagina de inicio</h3>
+        <h3>Pagina de inicio LOGIN VALIDATOR</h3>
         <hr />
     </div>
 
