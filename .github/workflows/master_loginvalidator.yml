@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Loginvalidator'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A458F97B4B544BA5A3C56F1436BEC972 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_344A27B3E00D4D5DAD70A36B53C76DBB }}
           package: .
